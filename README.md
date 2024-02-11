@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, 👋 I'm Cliff Li</h1>
 <h3 align="center">Full-stack developer, CS master's student at Northeastern University</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **NLP**
 
-- 👯 I’m looking to collaborate on **frontend/backend/full-stack development**
+- 👯 I’m looking to collaborate on **backend/full-stack development**
 
 - 👨‍💻 Check my portfolio at [https://txli299.github.io/mySite/](https://txli299.github.io/mySite/)
 
