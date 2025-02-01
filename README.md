@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, 👋 I'm Cliff Li</h1>
+<h1 align="center">Hi there, 👋 I'm Tuoxin Li</h1>
 <h3 align="center">Full-stack developer, CS master's student at Northeastern University</h3>
 
 - 🌱 I’m currently learning **NLP**
