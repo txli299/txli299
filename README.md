@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, 👋 I'm Tuoxin Li</h1>
-<h3 align="center">Full-stack developer, CS master's student at Northeastern University</h3>
+<h3 align="center">Full-stack developer, expert for building from 0 -> 1</h3>
 
 - 🌱 I’m currently learning **NLP**
 
