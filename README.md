@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check my portfolio at [https://txli299.github.io/mySite/](https://txli299.github.io/mySite/)
 
-- 📫 How to reach me **li.tuox@northeastern.edu**
+- 📫 How to reach me **txli299@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
